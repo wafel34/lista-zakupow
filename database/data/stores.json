@@ -1,0 +1,47 @@
+[
+    {
+        "name_lower": "brak",
+        "name": "brak"
+
+    },
+    {
+        "name_lower": "biedronka",
+        "name": "Biedronka"
+
+    },
+    {
+        "name_lower": "delikatesy_centrum",
+        "name": "Delikatesy Centrum"
+
+    },
+    {
+        "name_lower": "cezar",
+        "name": "Cezar"
+
+    },
+    {
+        "name_lower": "tesco",
+        "name": "tesco"
+
+    },
+    {
+        "name_lower": "hitpol",
+        "name": "Hitpol"
+
+    },
+    {
+        "name_lower": "carrefour",
+        "name": "Carrefour"
+
+    },
+    {
+        "name_lower": "auchan",
+        "name": "Auchan"
+
+    },
+    {
+        "name_lower": "inne",
+        "name": "Inne"
+
+    }
+]
