@@ -1,46 +1,45 @@
 [
     {
-        "name_lower": "brak",
-        "name": "brak"
-
+    "nameLower": "brak",
+    "name": "brak"
     },
     {
-        "name_lower": "biedronka",
+        "nameLower": "biedronka",
         "name": "Biedronka"
 
     },
     {
-        "name_lower": "delikatesy_centrum",
+        "nameLower": "delikatesy_centrum",
         "name": "Delikatesy Centrum"
 
     },
     {
-        "name_lower": "cezar",
+        "nameLower": "cezar",
         "name": "Cezar"
 
     },
     {
-        "name_lower": "tesco",
+        "nameLower": "tesco",
         "name": "tesco"
 
     },
     {
-        "name_lower": "hitpol",
+        "nameLower": "hitpol",
         "name": "Hitpol"
 
     },
     {
-        "name_lower": "carrefour",
+        "nameLower": "carrefour",
         "name": "Carrefour"
 
     },
     {
-        "name_lower": "auchan",
+        "nameLower": "auchan",
         "name": "Auchan"
 
     },
     {
-        "name_lower": "inne",
+        "nameLower": "inne",
         "name": "Inne"
 
     }
